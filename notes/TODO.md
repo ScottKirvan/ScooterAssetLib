@@ -1,6 +1,7 @@
 TODO
 ----
-- [ ] .
+- [ ] Document!
+- [ ] might be nice to add some sample projects
 
 In Progress
 -----------

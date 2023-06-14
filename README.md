@@ -9,10 +9,10 @@ Maybe you can mention me or this repo in the acknowledgements too
 <div align="center">
 
   <img src="assets/logo.png" alt="logo" width="200" height="auto" />
-  <h1>Scooter Asset Lib</h1>
+  <h1>Scooter Asset Library</h1>
   
   <p>
-    Stuff! 
+    A content library plugin for Unreal Engine 5! 
   </p>
   
   
@@ -44,17 +44,15 @@ ScottKirvan/ScooterAssetLib
 </p>
    
 <h4>
-    <a href="https://github.com/ScottKirvan/ScooterAssetLib/">View Demo</a>
+    <!-- <a href="https://github.com/ScottKirvan/ScooterAssetLib/">View Demo</a>
   <span> · </span>
     <a href="https://github.com/ScottKirvan/ScooterAssetLib">Documentation</a>
-  <span> · </span>
+  <span> · </span> -->
     <a href="https://github.com/ScottKirvan/ScooterAssetLib/issues/">Report Bug</a>
   <span> · </span>
     <a href="https://github.com/ScottKirvan/ScooterAssetLib/issues/">Request Feature</a>
   </h4>
 </div>
-
-<br />
 
 ## Contents
 ### Material Functions
@@ -69,13 +67,16 @@ ScottKirvan/ScooterAssetLib
 - SM_UEShaderBall
 
 
-## SM_Dennis* Static Mesh Asset
-**Copyright (2021-2023) (origin):**  [Renderpeople](https://renderpeople.com/) - ([file](https://renderpeople.com/sample/free/renderpeople_free_posed_people_OBJ.zip))  
-**Copyright (2023) (modified):** Scott Kirvan   
-**License:**  [CC Attribution](LICENSE.md) :grey_question:[learn more](http://creativecommons.org/licenses/by/4.0/)  
+## Credits
+SM_Dennis:  **Copyright (2021-2023) (origin):**  [Renderpeople](https://renderpeople.com/) - ([file](https://renderpeople.com/sample/free/renderpeople_free_posed_people_OBJ.zip)) - **License:**  [CC Attribution](notes/Dennis_License.md) :grey_question:[learn more](http://creativecommons.org/licenses/by/4.0/)  
+The SM_Dennis asset includes modifications by Scott Kirvan. Modifications **Copyright (2023) (modified):** Scott Kirvan   
+The ShaderBall is from [Epic Games](http://epicgames.com)  
+Everything else:  **Copyright (c) (2023):** Scott Kirvan   
+All rights reserved  
 
+*ScooterAssetLib is licensed under the [MIT License](LICENSE.md).*
 
-# [ScooterAssetLib](https://github.com/ScottKirvan/ScooterAssetLib)
+Project Link:  [ScooterAssetLib](https://github.com/ScottKirvan/ScooterAssetLib)
 
 [CHANGELOG](notes/CHANGELOG.md)  
 [TODO](notes/TODO.md)
