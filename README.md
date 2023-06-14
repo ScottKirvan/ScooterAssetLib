@@ -72,7 +72,7 @@ ScottKirvan/ScooterAssetLib
 ## Credits
 SM_Dennis:  **Copyright (2021-2023) (origin):**  [Renderpeople](https://renderpeople.com/) - ([file](https://renderpeople.com/sample/free/renderpeople_free_posed_people_OBJ.zip)) - **License:**  [CC Attribution](notes/Dennis_License.md) :grey_question:[learn more](http://creativecommons.org/licenses/by/4.0/)  
 The SM_Dennis asset includes modifications by Scott Kirvan. Modifications **Copyright (2023) (modified):** Scott Kirvan   
-The ShaderBall is from [Epic Games](epicgames.com)
+The ShaderBall is from [Epic Games](epicgames.com)  
 Everything else:  **Copyright (c) (2023):** Scott Kirvan   
 All rights reserved  
 
