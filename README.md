@@ -9,10 +9,10 @@ Maybe you can mention me or this repo in the acknowledgements too
 <div align="center">
 
   <img src="assets/logo.png" alt="logo" width="200" height="auto" />
-  <h1>Awesome Readme Template</h1>
+  <h1>Scooter Asset Lib</h1>
   
   <p>
-    An awesome README template for your projects! 
+    Stuff! 
   </p>
   
   
@@ -20,22 +20,22 @@ ScottKirvan/ScooterGitTemplate
 <!-- Badges -->
 <p>
   <a href="https://github.com/ScottKirvan/ScooterGitTemplate/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/ScottKirvan/ScooterGitTemplate" alt="contributors" />
+    <img src="https://img.shields.io/github/contributors/ScottKirvan/ScooterAssetLib" alt="contributors" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/ScottKirvan/ScooterGitTemplate" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/ScottKirvan/ScooterAssetLib" alt="last update" />
   </a>
   <a href="https://github.com/ScottKirvan/ScooterGitTemplate/network/members">
-    <img src="https://img.shields.io/github/forks/ScottKirvan/ScooterGitTemplate" alt="forks" />
+    <img src="https://img.shields.io/github/forks/ScottKirvan/ScooterAssetLib" alt="forks" />
   </a>
   <a href="https://github.com/ScottKirvan/ScooterGitTemplate/stargazers">
-    <img src="https://img.shields.io/github/stars/ScottKirvan/ScooterGitTemplate" alt="stars" />
+    <img src="https://img.shields.io/github/stars/ScottKirvan/ScooterAssetLib" alt="stars" />
   </a>
   <a href="https://github.com/ScottKirvan/ScooterGitTemplate/issues/">
-    <img src="https://img.shields.io/github/issues/ScottKirvan/ScooterGitTemplate" alt="open issues" />
+    <img src="https://img.shields.io/github/issues/ScottKirvan/ScooterAssetLib" alt="open issues" />
   </a>
   <a href="https://github.com/ScottKirvan/ScooterGitTemplate/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/ScottKirvan/ScooterGitTemplate.svg" alt="license" />
+    <img src="https://img.shields.io/github/license/ScottKirvan/ScooterAssetLib.svg" alt="license" />
   </a>
   <a href="https://discord.gg/gQH4mXWQRT">
     <!--<img src="https://img.shields.io/discord/704680098577514527?style=flat-square&label=%F0%9F%92%AC%20discord&color=00ACD7">-->
@@ -44,20 +44,20 @@ ScottKirvan/ScooterGitTemplate
 </p>
    
 <h4>
-    <a href="https://github.com/ScottKirvan/ScooterGitTemplate/">View Demo</a>
+    <a href="https://github.com/ScottKirvan/ScooterAssetLib/">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/ScottKirvan/ScooterGitTemplate">Documentation</a>
+    <a href="https://github.com/ScottKirvan/ScooterAssetLib">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/ScottKirvan/ScooterGitTemplate/issues/">Report Bug</a>
+    <a href="https://github.com/ScottKirvan/ScooterAssetLib/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/ScottKirvan/ScooterGitTemplate/issues/">Request Feature</a>
+    <a href="https://github.com/ScottKirvan/ScooterAssetLib/issues/">Request Feature</a>
   </h4>
 </div>
 
 <br />
 
 
-# [ScooterGitTemplate](https://github.com/ScottKirvan/ScooterGitTemplate)
+# [ScooterAssetLib](https://github.com/ScottKirvan/ScooterAssetLib)
 
 [CHANGELOG](notes/CHANGELOG.md)  
 [TODO](notes/TODO.md)
