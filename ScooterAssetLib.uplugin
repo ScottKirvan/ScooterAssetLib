@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ScooterAssetLib",
+	"Description": "Asset Collection",
+	"Category": "Other",
+	"CreatedBy": "Scott Kirvan",
+	"CreatedByURL": "www.skvfx.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
