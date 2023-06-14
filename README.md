@@ -70,14 +70,14 @@ ScottKirvan/ScooterAssetLib
 
 
 ## Credits
-### SM_Dennis* Static Mesh Asset
 SM_Dennis **Copyright (2021-2023) (origin):**  [Renderpeople](https://renderpeople.com/) - ([file](https://renderpeople.com/sample/free/renderpeople_free_posed_people_OBJ.zip))  
 The SM_Dennis asset includes modifications by Scott Kirvan. Modifications **Copyright (2023) (modified):** Scott Kirvan   
 SM_Dennis **License:**  [CC Attribution](notes/Dennis_License.md) :grey_question:[learn more](http://creativecommons.org/licenses/by/4.0/)  
-
-### Everything else...
+Everything else...  
 **Copyright (c) (2023):** Scott Kirvan   
 All rights reserved  
+
+*ToolExample is licensed under the [MIT License](LICENSE.md).*
 
 Project Link:  [ScooterAssetLib](https://github.com/ScottKirvan/ScooterAssetLib)
 
