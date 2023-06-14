@@ -39,7 +39,7 @@ ScottKirvan/ScooterAssetLib
   </a>
   <a href="https://discord.gg/qwru5MY8jk">
     <!--<img src="https://img.shields.io/discord/704680098577514527?style=flat-square&label=%F0%9F%92%AC%20discord&color=00ACD7">-->
-    <img src="https://img.shields.io/discord/1052011377415438346?style=flat-square&label=discord&color=00ACD7">
+    <img src="https://img.shields.io/discord/795809072154148895?style=flat-square&label=discord&color=00ACD7">
   </a>
 </p>
    
