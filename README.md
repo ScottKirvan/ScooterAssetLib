@@ -16,7 +16,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   </p>
   
   
-ScottKirvan/ScooterGitTemplate
+ScottKirvan/ScooterAssetLib
 <!-- Badges -->
 <p>
   <a href="https://github.com/ScottKirvan/ScooterGitTemplate/graphs/contributors">
