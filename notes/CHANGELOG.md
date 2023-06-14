@@ -9,8 +9,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.0.1] - 2023-06-13
 ### Added
 - initial repo/template check-in
-- MF_Rotate - Mesh rotator material function
-- 
+- MF_MakeVector
+- MF_ResistorColors
+- MF_Rotator - Mesh rotator material function
+- MF_ScreenSpaceChex
+- PPM_LensSpherical
+- SM_Dennis*
+- SM_UEShaderBall
 
 
 
