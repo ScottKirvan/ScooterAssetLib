@@ -44,10 +44,10 @@ ScottKirvan/ScooterAssetLib
 </p>
    
 <h4>
-    <a href="https://github.com/ScottKirvan/ScooterAssetLib/">View Demo</a>
+    <!-- <a href="https://github.com/ScottKirvan/ScooterAssetLib/">View Demo</a>
   <span> · </span>
     <a href="https://github.com/ScottKirvan/ScooterAssetLib">Documentation</a>
-  <span> · </span>
+  <span> · </span> -->
     <a href="https://github.com/ScottKirvan/ScooterAssetLib/issues/">Report Bug</a>
   <span> · </span>
     <a href="https://github.com/ScottKirvan/ScooterAssetLib/issues/">Request Feature</a>
