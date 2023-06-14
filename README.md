@@ -76,7 +76,7 @@ The ShaderBall is from [Epic Games](http://epicgames.com)
 Everything else:  **Copyright (c) (2023):** Scott Kirvan   
 All rights reserved  
 
-*ToolExample is licensed under the [MIT License](LICENSE.md).*
+*ScooterAssetLib is licensed under the [MIT License](LICENSE.md).*
 
 Project Link:  [ScooterAssetLib](https://github.com/ScottKirvan/ScooterAssetLib)
 
