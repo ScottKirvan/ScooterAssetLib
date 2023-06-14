@@ -53,6 +53,7 @@ ScottKirvan/ScooterAssetLib
     <a href="https://github.com/ScottKirvan/ScooterAssetLib/issues/">Request Feature</a>
   </h4>
 </div>
+
 ## Contents
 ### Material Functions
 - MF_MakeVector
