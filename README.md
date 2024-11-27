@@ -8,7 +8,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 -->
 <div align="center">
 
-  <img src="assets/logo.png" alt="logo" width="200" height="auto" />
+  <img src="assets/media/logo.jpg" alt="logo" width="200" height="auto" />
   <h1>Scooter Asset Library</h1>
   
   <p>
@@ -55,13 +55,37 @@ ScottKirvan/ScooterAssetLib
 </div>
 
 ## Contents
-### Material Functions
+
+```
+Content
+├───Calibration
+├───Materials
+│   ├───MaterialFunctions
+│   └───PostProcessMaterials
+├───Meshes
+└───Textures
+```
+
+### Calibration
+- BP_Calibration
+- MI_MatteBall_0p1
+- MI_MatteBall_0p5
+- MI_MatteBall_0p8
+- MI_MatteBall_Mid18
+- M_ChromeBall
+- M_MacBethChart
+- M_MatteBall
+- SM_MacBethChart
+
+### Materials/MaterialFunctions
 - MF_MakeVector
 - MF_ResistorColors
 - MF_Rotator
 - MF_ScreenSpaceChex
-### Post Process Materials
+
+### Materials/PostProcessMaterials
 - PPM_LensSpherical
+
 ### Meshes
 - SM_Dennis*
 - SM_UEShaderBall
