@@ -89,14 +89,10 @@ ScooterAssetLib
 - PPM_LensSpherical
 
 ### Meshes
-- SM_Dennis*
-- SM_UEShaderBall
-
 - dennis
 - SM_Cyclorama
 - SM_Dennis
 - SM_UEShaderBall
-- zzenpad.foo
 
 ### Textures
 &nbsp; &nbsp; &nbsp; &nbsp; *Not used.*
