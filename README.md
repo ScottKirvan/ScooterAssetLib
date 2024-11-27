@@ -57,16 +57,18 @@ ScottKirvan/ScooterAssetLib
 ## Contents
 
 ```
-Content
-├───Calibration
-├───Materials
-│   ├───MaterialFunctions
-│   └───PostProcessMaterials
-├───Meshes
-└───Textures
+ScooterAssetLib
+├───Content
+│   ├───Calibration
+│   ├───Materials
+│   │   ├───MaterialFunctions
+│   │   └───PostProcessMaterials
+│   ├───Meshes
+│   └───Textures
 ```
 
 ### Calibration
+*This folder contains a Blueprint which organizes a MacBeth Chart, several shader balls, and all the materials.*
 - BP_Calibration
 - MI_MatteBall_0p1
 - MI_MatteBall_0p5
@@ -89,6 +91,15 @@ Content
 ### Meshes
 - SM_Dennis*
 - SM_UEShaderBall
+
+- dennis
+- SM_Cyclorama
+- SM_Dennis
+- SM_UEShaderBall
+- zzenpad.foo
+
+### Textures
+&nbsp; &nbsp; &nbsp; &nbsp; *Not used.*
 
 
 ## Credits
