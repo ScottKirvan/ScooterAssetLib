@@ -8,7 +8,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 -->
 <div align="center">
 
-  <img src="assets/media/logo.jpg" alt="logo" width="200" height="auto" />
+  <img src="assets/media/logo.png" alt="logo" width="200" height="auto" />
   <h1>Scooter Asset Library</h1>
   
   <p>
