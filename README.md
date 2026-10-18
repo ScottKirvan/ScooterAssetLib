@@ -79,6 +79,9 @@ ScooterAssetLib
 - M_MatteBall
 - SM_MacBethChart
 
+### Materials
+- M_Banana
+
 ### Materials/MaterialFunctions
 - MF_MakeVector
 - MF_ResistorColors
@@ -89,13 +92,13 @@ ScooterAssetLib
 - PPM_LensSpherical
 
 ### Meshes
-- dennis
+- SM_Banana
 - SM_Cyclorama
 - SM_Dennis
 - SM_UEShaderBall
 
 ### Textures
-&nbsp; &nbsp; &nbsp; &nbsp; *Not used.*
+- T_Banana
 
 
 ## Credits
@@ -104,6 +107,7 @@ The SM_Dennis asset includes modifications by Scott Kirvan. Modifications **Copy
 The ShaderBall is from [Epic Games](http://epicgames.com)  
 Everything else:  **Copyright (c) (2023):** Scott Kirvan   
 All rights reserved  
+"Banana" by firehawksoftware is licensed under Creative Commons Attribution-NonCommercial 4.0  
 
 *ScooterAssetLib is licensed under the [MIT License](LICENSE.md).*
 
